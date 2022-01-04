@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m 雅婷
+- 🌱 我的博客是:https://yating.world
+- ⚡ 艺术二维码工具：https://yating.world/art-qrcode/
 <!--
 **Chenyating/Chenyating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
